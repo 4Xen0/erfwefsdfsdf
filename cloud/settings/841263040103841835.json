@@ -1,7 +1,10 @@
 {
   "themeColor": "#5c2d8b",
   "showSnowflakes": true,
-  "anonymousMode": false,
+  "anonymousMode": true,
   "performanceMode": false,
-  "userProfile": {}
+  "userProfile": {
+    "userId": "841263040103841835",
+    "premiumStatus": "Premium Plus"
+  }
 }
